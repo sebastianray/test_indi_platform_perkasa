@@ -1,0 +1,192 @@
+{
+	"id": "73418504-a4ba-4dfc-b65e-b7e9a6b2a8ac",
+	"name": "JAGI",
+	"timestamp": "2021-01-30T03:28:32.936Z",
+	"collection_id": "499845ad-da74-4802-96ac-b71cc9a9b06a",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "35f0d980-3533-4bdf-b74b-18fea805827c",
+			"name": "get student by id",
+			"time": 14,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				79,
+				18,
+				16,
+				13,
+				14
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "9e4c801d-03af-408e-b84c-fd941693a509",
+			"name": "get student by id_2",
+			"time": 14,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				17,
+				18,
+				15,
+				15,
+				14
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "577130e8-5183-4f35-9b16-c32accd978b0",
+			"name": "Search Students",
+			"time": 279,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				443,
+				561,
+				480,
+				564,
+				279
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "ee5c1b16-f859-497f-a047-62e8a923ad3e",
+			"name": "Search Students_2",
+			"time": 70,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				69,
+				54,
+				85,
+				60,
+				70
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "8ea8949e-ec4e-48c5-9c55-63e3ca264cd8",
+			"name": "get student by id_3",
+			"time": 17,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				15,
+				14,
+				19,
+				14,
+				17
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "1c46d914-5daa-4090-8070-7ec1d4bce20c",
+			"name": "Search Students_3",
+			"time": 57,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				68,
+				60,
+				57,
+				50,
+				57
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 5,
+	"totalTime": 3255,
+	"collection": {
+		"requests": [
+			{
+				"id": "35f0d980-3533-4bdf-b74b-18fea805827c",
+				"method": "GET"
+			},
+			{
+				"id": "9e4c801d-03af-408e-b84c-fd941693a509",
+				"method": "GET"
+			},
+			{
+				"id": "577130e8-5183-4f35-9b16-c32accd978b0",
+				"method": "POST"
+			},
+			{
+				"id": "ee5c1b16-f859-497f-a047-62e8a923ad3e",
+				"method": "POST"
+			},
+			{
+				"id": "8ea8949e-ec4e-48c5-9c55-63e3ca264cd8",
+				"method": "GET"
+			},
+			{
+				"id": "1c46d914-5daa-4090-8070-7ec1d4bce20c",
+				"method": "POST"
+			}
+		]
+	}
+}
